@@ -1355,19 +1355,19 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Map for dev event of SOGETI"
+         "value":"Suitable for up to 100 users.\n\nA huge amphitheater and lots of desks... underwater?\nIf a company had created its own offices underwater, they would look like this. We would also have to create underwater taxis, otherwise how would you get home?"
         }, 
         {
          "name":"mapImage",
          "type":"string",
          "value":"map.png"
-        }, 
-        {
-         "name":"mapLink",
-         "type":"string",
-         "value":"TODO"
-        }, 
-        {
+        },
+   {
+     "name":"mapLink",
+     "type":"string",
+     "value":"https:\/\/workadventure.github.io\/scripting-api-extra\/map.json"
+   },
+   {
          "name":"mapName",
          "type":"string",
          "value":"Underwater office"
